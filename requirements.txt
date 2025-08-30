@@ -1,0 +1,4 @@
+pytesseract
+openpyxl
+pillow
+pandas
